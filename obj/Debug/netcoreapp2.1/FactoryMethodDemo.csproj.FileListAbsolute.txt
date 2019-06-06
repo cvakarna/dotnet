@@ -1,0 +1,11 @@
+D:\siva\learning\DotNet\FactoryMethodDemo\bin\Debug\netcoreapp2.1\FactoryMethodDemo.deps.json
+D:\siva\learning\DotNet\FactoryMethodDemo\bin\Debug\netcoreapp2.1\FactoryMethodDemo.runtimeconfig.json
+D:\siva\learning\DotNet\FactoryMethodDemo\bin\Debug\netcoreapp2.1\FactoryMethodDemo.runtimeconfig.dev.json
+D:\siva\learning\DotNet\FactoryMethodDemo\bin\Debug\netcoreapp2.1\FactoryMethodDemo.dll
+D:\siva\learning\DotNet\FactoryMethodDemo\bin\Debug\netcoreapp2.1\FactoryMethodDemo.pdb
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.csprojAssemblyReference.cache
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.csproj.CoreCompileInputs.cache
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.AssemblyInfoInputs.cache
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.AssemblyInfo.cs
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.dll
+D:\siva\learning\DotNet\FactoryMethodDemo\obj\Debug\netcoreapp2.1\FactoryMethodDemo.pdb
